@@ -1,0 +1,14 @@
+Installation Steps
+
+1. Download zip file and Unzip file on your local server.
+2. Install xampp server.Put this file inside "c:/xampp/htdocs/" .
+3. Database Configuration
+Start apache and MySQL
+Open phpmyadmin
+Create Database named canteen.
+Import database canteen.sql from downloaded folder(inside database)
+4. Open Your browser put "http://localhost/canteen/register.php"
+
+Admin Login Details
+Login Id: root
+Password: toor
